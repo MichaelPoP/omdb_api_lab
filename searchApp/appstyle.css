@@ -1,0 +1,55 @@
+body {
+	background-image: url("../images/red_curtains.jpg");
+}
+input {
+	border: 5px dotted #d30004;
+	border-style: groove;
+	height: 33px;
+	width:158px;
+	background: rgba(109, 95, 95, .6);
+	color:white;
+	font-size: 19px;
+	font-variant: small-caps; 
+	font-family: monospace;
+	text-shadow: -1px -1px 1px black, 1px 1px 1px black;
+}
+
+label {
+	color:white;
+	font-size: 19px;
+	font-variant: small-caps; 
+	font-family: monospace;
+	text-shadow: -1px -1px 1px black, 1px 1px 1px black;
+	letter-spacing: 3px;
+}
+
+ul {
+	border: 5px inset #b54a48;
+	color:white;
+	font-size: 19px;
+	font-variant: small-caps; 
+	font-family: monospace;
+	text-shadow: -1px -1px 1px black, 1px 1px 1px white;
+	font-weight: 200px;
+
+}
+#subbutton {
+	letter-spacing: 5px;
+}
+
+.remove {
+
+	height: 20px;
+	width: 26px;
+	background: rgba(197, 198, 190, .5);
+	color:#dc7c74;
+	font-size:17px;
+	line-height: 10px;
+	text-align: center;
+}
+
+
+
+
+
+
